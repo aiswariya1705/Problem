@@ -4,5 +4,5 @@ if [ "$PasswordAuthentication"=“yes" ]
 then 
 	printf "%s authentication successsfull"  
 else 
-	printf "unsuccessfull" 
+	printf "unsuccessfull attempt" 
 fi 
